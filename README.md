@@ -10,6 +10,7 @@ Currently, RYPaws Pet Shop is still using manual management system to maintain t
 
 # Files
 - Case Study.docx: Is the case study file that explains the case's details
-- Create.sql: Contains sql queries that creates the table inside the database
-- Insert.sql: Contains sql queries that insert data rows inside the tables
-- 10 Question Answer.sql: Contains sq; queries that answers the 10 question asked on the case study
+- Create.sql: Contains SQL queries that creates the table inside the database
+- Insert.sql: Contains SQL queries that insert data rows inside the tables
+- 10 Question Answer.sql: Contains SQL queries that answers the 10 question asked on the case study
+- Transaction Simulation.sql: Contains SQL queries that simulate database transactions to validate and test transaction behavior.
